@@ -1,0 +1,10 @@
+D:\sandbox\redditTest\redditTest\bin\Debug\redditTest.exe.config
+D:\sandbox\redditTest\redditTest\bin\Debug\redditTest.exe
+D:\sandbox\redditTest\redditTest\bin\Debug\redditTest.pdb
+D:\sandbox\redditTest\redditTest\bin\Debug\RedditSharp.dll
+D:\sandbox\redditTest\redditTest\bin\Debug\Newtonsoft.Json.dll
+D:\sandbox\redditTest\redditTest\bin\Debug\HtmlAgilityPack.dll
+D:\sandbox\redditTest\redditTest\bin\Debug\RedditSharp.pdb
+D:\sandbox\redditTest\redditTest\obj\Debug\redditTest.csprojResolveAssemblyReference.cache
+D:\sandbox\redditTest\redditTest\obj\Debug\redditTest.exe
+D:\sandbox\redditTest\redditTest\obj\Debug\redditTest.pdb
